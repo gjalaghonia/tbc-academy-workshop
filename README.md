@@ -3,7 +3,9 @@
 This manual provides step-by-step instructions for setting up a simple blog application using various AWS services.
 
 Table of Contents
+
 Create VPC with Private Subnets
+
 Create Route Table
 Create Internet Gateway (IGW)
 Create RDS Aurora (MySQL Database)
