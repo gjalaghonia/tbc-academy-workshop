@@ -5,7 +5,6 @@ This manual provides step-by-step instructions for setting up a simple blog appl
 Table of Contents
 
 Create VPC with Private Subnets
-
 Create Route Table
 Create Internet Gateway (IGW)
 Create RDS Aurora (MySQL Database)
